@@ -1,0 +1,40 @@
+body{
+  overflow-x: hidden;
+  background-image: url("../images/MBackground.png");
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center center;
+  height: 100vh;
+}
+.wrapper{
+  position: relative;
+  margin: 0 auto;
+  padding: 50px 0;
+  clear: both;
+}
+.menu-area{
+  list-style: none;
+  padding: 282px;
+  margin: 0;
+  width: 250px;
+}
+.menu-area li{
+  position: relative;
+}
+.menu-area li a{
+  text-align: center;
+  height: 36px;
+  position: relative;
+  display: block;
+  text-decoration: none;
+  padding: 12px 20px;
+  color: aliceblue;
+}
+.menu-area li a strong{
+  display: block;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+.menu-area li:hover > a{
+  color: aquamarine;
+}

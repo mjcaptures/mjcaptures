@@ -263,12 +263,12 @@ html[xmlns] .flexslider .slides {
 
 .flex-control-paging li a:hover {
   background:transparent;
-  border:2px solid #00a98f;
+  border:2px solid #050505;
 }
 
 .flex-control-paging li a.flex-active {
   background:transparent;
-  border:2px solid #00a98f;
+  border:2px solid #ffffff;
   cursor: default;
 }
 
