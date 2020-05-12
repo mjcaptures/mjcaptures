@@ -1607,9 +1607,9 @@ h5#exampleModalLongTitle {
 	}
 	.top-header {
 		background: none !important;
-	    padding: 0em 8em;
-    	margin: 10px;
-   		margin-right: -95px;
+		padding: 0em 2em;
+		margin: 6px;
+		margin-right: -37px;
 	}
 	header {
 		padding: 1em 1em 0 1em;
@@ -1666,7 +1666,7 @@ h5#exampleModalLongTitle {
 		font-size: 0.8em;
 	}
 	header {
-		padding: 0.5em 1em 0 1em;
+		padding: 1.5em 6em 0 5em;
 		width: 100%;
 		top: 1%;
 		left: 0%;

@@ -36,5 +36,14 @@ body{
   letter-spacing: 3px;
 }
 .menu-area li:hover > a{
-  color: aquamarine;
+  color: rgb(59, 59, 59);
+}
+@media(max-width:414px){
+	.menu-area {
+		font-size: 2em;
+		letter-spacing: 1px;
+  }
+  body{
+    background: url("../images/MBackground1.png");
+  }
 }
