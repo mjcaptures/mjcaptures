@@ -38,12 +38,178 @@ body{
 .menu-area li:hover > a{
   color: rgb(59, 59, 59);
 }
-@media(max-width:414px){
-	.menu-area {
-		font-size: 2em;
-		letter-spacing: 1px;
+
+  @media(max-width:1440px){
+    menu-area {
+      font-size: 2em;
+      letter-spacing: 1px;
+    }
+    body{
+      background: url("../images/MBackground1.png");
+    }
+  }
+  @media(max-width:1366px){
+    menu-area {
+      font-size: 2em;
+      letter-spacing: 1px;
+    }
+    body{
+      background: url("../images/MBackground1.png");
+    }
+  }
+  @media(max-width:1280px){
+    menu-area {
+      font-size: 2em;
+      letter-spacing: 1px;
+    }
+    body{
+      background: url("../images/MBackground1.png");
+    }
+  }
+  @media(max-width:1080px){
+    menu-area {
+      font-size: 2em;
+      letter-spacing: 1px;
+    }
+    body{
+      background: url("../images/MBackground1.png");
+    }
+  }
+  @media(max-width:1024px){
+    menu-area {
+      font-size: 2em;
+      letter-spacing: 1px;
+    }
+    body{
+      background: url("../images/MBackground1.png");
+    }
+  }
+  @media(max-width:991px){
+    menu-area {
+      font-size: 2em;
+      letter-spacing: 1px;
+    }
+    body{
+      background: url("../images/MBackground1.png");
+    }
+  }
+  @media(max-width:900px){
+    menu-area {
+      font-size: 2em;
+      letter-spacing: 1px;
+    }
+    body{
+      background: url("../images/MBackground1.png");
+    }
+  }
+  @media(max-width:800px){menu-area {
+    font-size: 2em;
+    letter-spacing: 1px;
   }
   body{
     background: url("../images/MBackground1.png");
   }
+  }
+  @media(max-width:768px){menu-area {
+    font-size: 2em;
+    letter-spacing: 1px;
+  }
+  body{
+    background: url("../images/MBackground1.png");
+  }
+  }
+  @media(max-width:767px){
+    menu-area {
+      font-size: 2em;
+      letter-spacing: 1px;
+    }
+    body{
+      background: url("../images/MBackground1.png");
+    }
+  }
+  @media(max-width:667px){menu-area {
+    font-size: 2em;
+    letter-spacing: 1px;
+  }
+  body{
+    background: url("../images/MBackground1.png");
+  }
+  }
+  @media(max-width:640px){
+    menu-area {
+      font-size: 2em;
+      letter-spacing: 1px;
+    }
+    body{
+      background: url("../images/MBackground1.png");
+    }
+  }
+  @media(max-width:100em){
+    menu-area {
+      font-size: 2em;
+      letter-spacing: 1px;
+    }
+    body{
+      background: url("../images/MBackground1.png");
+    }
+  }
+  @media(max-width:568px){
+    menu-area {
+      font-size: 2em;
+      letter-spacing: 1px;
+    }
+    body{
+      background: url("../images/MBackground1.png");
+    }
+  }
+  @media(max-width:480px){
+    menu-area {
+      font-size: 2em;
+      letter-spacing: 1px;
+    }
+    body{
+      background: url("../images/MBackground1.png");
+    }
+  }
+  @media(max-width:414px){
+    .menu-area {
+      font-size: 2em;
+      letter-spacing: 1px;
+    }
+    body{
+      background: url("../images/MBackground1.png");
+    }
+  @media(max-width:384px){
+    menu-area {
+      font-size: 2em;
+      letter-spacing: 1px;
+    }
+    body{
+      background: url("../images/MBackground1.png");
+    }
+  }
+  @media(max-width:375px){
+    menu-area {
+      font-size: 2em;
+      letter-spacing: 1px;
+    }
+    body{
+      background: url("../images/MBackground1.png");
+    }
+  }
+  @media(max-width:320px){
+    menu-area {
+      font-size: 2em;
+      letter-spacing: 1px;
+    }
+    body{
+      background: url("../images/MBackground1.png");
+    }
+  }
+  
+
+
+
+
+
 }
