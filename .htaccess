@@ -1,0 +1,6 @@
+RewriteEngine on
+RewriteRule ^Home?$ index.html
+RewriteRule ^Portfolio?$ portfolio.html
+RewriteRule ^Pictures?$ portfolio-2.html
+RewriteRule ^About MJ?$ about.html
+RewriteRule ^Contact?$ contact.html
